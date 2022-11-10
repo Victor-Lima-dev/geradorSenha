@@ -1,0 +1,15 @@
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\bin\Debug\net6.0\geradorSenha.exe
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\bin\Debug\net6.0\geradorSenha.deps.json
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\bin\Debug\net6.0\geradorSenha.runtimeconfig.json
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\bin\Debug\net6.0\geradorSenha.dll
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\bin\Debug\net6.0\geradorSenha.pdb
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.AssemblyInfoInputs.cache
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.AssemblyInfo.cs
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.dll
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\refint\geradorSenha.dll
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.pdb
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\geradorSenha.genruntimeconfig.cache
+C:\Users\Vitor\Desktop\projetos\geradorSenha\geradorSenha\obj\Debug\net6.0\ref\geradorSenha.dll
